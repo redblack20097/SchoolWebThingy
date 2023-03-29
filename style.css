@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+header {
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+}
+.Schedule {
+  height: 50%;
+}
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+}
+
+.Photo-Of-The-Day {
+  text-align: center;
+}
+
+.Shpargalka {
+  text-align: center;
+}
